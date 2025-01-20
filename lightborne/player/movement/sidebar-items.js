@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["COYOTE_TIME_TICKS","JUMP_BOOST_TICKS","PLAYER_GRAVITY","PLAYER_JUMP_VEL","PLAYER_MAX_H_VEL","PLAYER_MAX_Y_VEL","PLAYER_MOVE_VEL","SHOULD_JUMP_TICKS"],"fn":["move_player","queue_jump"],"struct":["PlayerMovement"]};

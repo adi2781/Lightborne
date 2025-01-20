@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["quick_reset"],"mod":["kill","light","movement","spawn"],"struct":["LdtkPlayerBundle","PlayerBundle","PlayerManagementPlugin","PlayerMarker"]};

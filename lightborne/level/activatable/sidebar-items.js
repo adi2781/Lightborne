@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["init_activatable","setup_activatables","update_activatables"],"struct":["Activatable","ActivatableCache","ActivatablePlugin","Activated","GroupTriggeredEvent"]};

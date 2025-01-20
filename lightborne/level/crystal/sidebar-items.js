@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["on_crystal_added","on_crystal_changed","reset_crystals"],"struct":["Crystal","CrystalBundle","CrystalPlugin"]};

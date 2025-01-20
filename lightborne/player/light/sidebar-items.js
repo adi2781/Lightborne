@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["handle_color_switch","preview_light_path","shoot_light"],"struct":["PlayerLightInventory"]};

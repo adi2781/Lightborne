@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["reset_player_on_level_switch","reset_player_position"],"struct":["KillPlayerEvent"]};
